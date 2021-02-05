@@ -89,9 +89,10 @@ Being a [Tintin](https://en.wikipedia.org/wiki/The_Adventures_of_Tintin) fan, th
 
 However, interiors and station locations are hand-drawn too.
 
-Here are some example characters drawn using fountain pen (black ink lines) and coloured with water colour:
+Here are some example characters [drawn recently](https://twitter.com/opyate/status/1356395395321069569) using fountain pen (black ink lines) and coloured with water colour:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When you start drawing an octopus, and it turns into a party...<a href="https://twitter.com/hashtag/illustration?src=hash&amp;ref_src=twsrc%5Etfw">#illustration</a> <a href="https://twitter.com/hashtag/Watercolour?src=hash&amp;ref_src=twsrc%5Etfw">#Watercolour</a> <a href="https://t.co/ugtE2aCPZB">pic.twitter.com/ugtE2aCPZB</a></p>&mdash; Juan Uys (@opyate) <a href="https://twitter.com/opyate/status/1356395395321069569?ref_src=twsrc%5Etfw">February 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![Exploring art style](assets/art-style.jpg)
+
 
 # Animation and Visual Effects
 
