@@ -1,0 +1,27 @@
+[gd_resource type="ShaderMaterial" load_steps=3 format=2]
+
+[ext_resource path="res://shaders/cel_shader.shader" type="Shader" id=1]
+[ext_resource path="res://shaders/outline_shadermaterial.tres" type="Material" id=2]
+
+[resource]
+next_pass = ExtResource( 2 )
+shader = ExtResource( 1 )
+shader_param/use_shade = true
+shader_param/use_specular = true
+shader_param/use_rim = true
+shader_param/use_light = true
+shader_param/use_shadow = false
+shader_param/base_color = Color( 1, 1, 1, 1 )
+shader_param/shade_color = Color( 0.129412, 0.666667, 0.133333, 1 )
+shader_param/specular_tint = Color( 0.796078, 0.145098, 0.145098, 0.74902 )
+shader_param/rim_tint = Color( 0.0941176, 0.145098, 0.666667, 0.74902 )
+shader_param/shade_threshold = 0.107
+shader_param/shade_softness = 0.079
+shader_param/specular_glossiness = 16.6
+shader_param/specular_threshold = 0.553
+shader_param/specular_softness = 0.212
+shader_param/rim_threshold = 0.475
+shader_param/rim_softness = 0.05
+shader_param/rim_spread = 0.5
+shader_param/shadow_threshold = 0.7
+shader_param/shadow_softness = 0.1
