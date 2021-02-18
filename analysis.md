@@ -7,11 +7,13 @@ You play cards to "bustle" with "enemy" commuters, and bustling includes things 
 
 Deck-building / rogue-lite.
 
-If at any time your health falls to zero, you pass out, and wake up in a hospital near your home, which means you have to start the journey over again. So, I guess there's a "permadeath" element of the roguelike genre in there.
+If at any time your **Annoyance Meter** falls to zero (i.e. your character is fully annoyed), you pass out, and wake up in a hospital near your home, which means you have to start the journey over again. So, I guess there's a "permadeath" element of the roguelike genre in there.
 
 # Player Fantasy
 
 "I'm a commuter on the journey of doom, on my way to X to do Y"
+
+(This will be informed by the [narrative design](narrative.md).)
 
 # Platform and Controls
 
@@ -43,6 +45,8 @@ The player journeys from A to B, one stop at a time. A location can be the inter
 
 The game is turn based, so you can take a breather between turns to gather your thoughts and plan your next move. Also, not every location on the journey is a battle arena, e.g. you can choose a branch in your journey which takes you to a station with a newsstand, so you can buy a sandwich or sweeties, to heal and restore energy.
 
+(Even if combat levels are continuous time instead of turn-based, there'll still be moments of rest in-between battles.)
+
 # Obstacles and Penalties
 
 The player does not know what lies ahead, and every battle area of the journey reveals a new fellow passenger, or group of passengers. The elite areas has stronger passengers with better rewards when defeated. The game is turn based, so the NPC passengers "play" as many times as you do, whether you choose to attack or not, or protect yourself or not.
@@ -67,7 +71,7 @@ The player is dealt a random hand every turn. A play-through is random as per th
 
 # Storytelling
 
-(None of this is set in stone.)
+(None of this is set in stone. See [narrative design](narrative.md).)
 
 An adventure: You find a note through your letterbox: your cat has been kidnapped. Meet at location X and bring ransom. You embark on your journey using public transport. However, you're mad, you're angry, and you're not your usual polite self. Every train ride is a bustle as you go head-to-head with other angry commuters.
 
