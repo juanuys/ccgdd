@@ -121,7 +121,7 @@ All battles are "train battles" and the attacks etc are things one would typical
 > 
 > Remember the power of mystery to keep the audience engaged. Does the game take place in one continuous flow of time, or does it jump around? Are there multiple protagonists or narrators?
 
-We enter the story from a position of stability (Fenix and Scratt are still together). This happy co-existance is disrupted when Scratt is gone, and Fenix is in dire straits.
+We enter the story from a position of stability (Fenix and Scratt are still together). This happy co-existence is disrupted when Scratt is gone, and Fenix is in dire straits.
 
 We could potentially start with Fenix mid-battle on a train, but the game will be humorous enough for this not to be necessary (i.e. the "depth" of the story doesn't need to be given weight with any weird narrative devices), so a linear telling will suffice.
 
@@ -175,7 +175,7 @@ Fenix is a well-defined character, with no customisations possible from the play
 
 > Is there an overall theme or meaning to the game’s narrative? What is the player supposed to have learned by the end of it?
 
-I have lived and travelled in London for over 15 years, and have grown more and more contemptuous of the London Underground. Every train is a tin of sardines. Most people are rude and entitled. It's dusrty and dirty and hot. Sometimes you just feel like [going postal](https://en.wikipedia.org/wiki/Going_postal), you know?
+I have lived and travelled in London for over 15 years, and have grown more and more contemptuous of the London Underground. Every train is a tin of sardines. Most people are rude and entitled. It's dusty and dirty and hot. Sometimes you just feel like [going postal](https://en.wikipedia.org/wiki/Going_postal), you know?
 
 So, this game has 2 goals: first is the player fantasy of "lashing out a bit" on public transport, getting your way, and just one-upping the other commuters. The second goal is to teach humanity that, look, these are the various things that people do on public transport, and it's utterly annoying, so please stop doing it. Hopefully it will show people what not to do on public transport, and be kinder.
 
