@@ -103,6 +103,10 @@ The journey begins. Fenix buys a train ticket, and sets off. The journey is brok
 
 Fenix gets to Faraway-so-Klouse, but Brüli and Scratt isn't at the location that one of the friends said they would be at. Fenix finds a note. "We knew you were coming, and couldn't stay to face you." (Or something to that tune). The game ends with To Be Continued...
 
+(Since I'm not planning a sequel, this ending might be a downer. We can make it end on an upper by getting Fenix to reflect on not having a neko anymore, and it turning out to be great, actually: no more neko poop in the plant pots; no more neko scratches on all the furniture; no more neko hair clogging up everything.)
+
+(Or, we just end the game on an upper and let the Fenix/Brüli encounter happen, after which Fenix and Scratt lives happily ever after.)
+
 # Mood
 
 > How should the player be feeling while they play through the game and experience the story? Perhaps they should be scared, excited, awed, relaxed or amused at different points. How do you establish these moods? Is the gameplay in harmony with the story: how can you avoid ‘ludonarrative dissonance’?
@@ -123,7 +127,7 @@ All battles are "train battles" and the attacks etc are things one would typical
 
 We enter the story from a position of stability (Fenix and Scratt are still together). This happy co-existence is disrupted when Scratt is gone, and Fenix is in dire straits.
 
-We could potentially start with Fenix mid-battle on a train, but the game will be humorous enough for this not to be necessary (i.e. the "depth" of the story doesn't need to be given weight with any weird narrative devices), so a linear telling will suffice.
+We could potentially start with Fenix mid-battle on a train, but the game will be humorous enough for this not to be necessary (i.e. the "depth" of the story doesn't need to be given weight with any weird narrative devices), so a linear telling will suffice. (I did consider a more systemic offering where the player has some choice over which journey branches to follow, and in effect choosing between foes or destinations, but I might as well let the player encounter foes in a linear order with a steady progression of difficulty.)
 
 The game takes place in a continuous flow of time, and every encounter (battle) on the trains will be more severe than the previous, so the tension is forever escalating.
 
@@ -167,9 +171,13 @@ The train stations will have billboards and posters which tells you more about Y
 
 The player has no agency in how the story unfolds, as it will unfold in a linear way. (I think this makes for a much simpler game to develop under current constraints.)
 
-The player is the avatar. The player is Fenix. The player can only control Fenix's battle actions via cardplay on public transport. Everything else is scripted.
+There is no avatar (as such) that represents the player and that the player can control. The player steers the protagonist from A to B (from the safe confines of their flat, to the final show-down at Faray-so-Klouse). The player can only control Fenix's battle actions via cardplay in restricted areas (public transport). Everything else is scripted.
+
+The player can only advance the plot from the map screen, i.e. choosing to go to the next encounter. The story follows the journey and starts at A (the protagonist's home) and ends at B (the final showdown between protagonist and antagonist). Otherwise, there is no free movement, and the plot isn't advanced with the passage of time.
 
 Fenix is a well-defined character, with no customisations possible from the player. Fenix has well-defined desires and motivations, and the player just enabled Fenix to reach their goal.
+
+When Fenix fails to progress through a battle scene, they end up in bed back home. The player has to start over. (This is the perma-death element from Roguelikes.) However, we might take some of the discomfort away by preserving some or all of the tricks (relics) that the player collected on the journey.
 
 # Theme
 

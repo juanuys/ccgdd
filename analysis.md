@@ -13,11 +13,11 @@ If at any time your **Annoyance Meter** falls to zero (i.e. your character is fu
 
 We have 2 fantasies:
 
-"I'm a commuter and on the receiving end of pushes and shoves and loud music and smelly food the entire journey, and this game will let me fight back!"
+"I'm a commuter on the receiving end of pushes, shoves, loud music and smelly food. This game will let me fight back!"
 
 "I'm a loving pet owner, and my pet is kidnapped, and I go on a hero's journey to retrieve them."
 
-(Thisis informed by the [narrative design](narrative.md).)
+(This is informed by the [narrative design](narrative.md).)
 
 # Platform and Controls
 
