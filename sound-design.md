@@ -10,7 +10,21 @@ There are many different attack types, spanning from direct contact to environme
 
 I've instead chosen to limit the SFX to a few basic sounds. In keeping with the scope, there's a single protagonist and a single antagonist, and each will have a basic SFX for giving and taking punishment, and variety for all SFX can be introduced with the game engine's [built-in pitch randomiser](https://docs.godotengine.org/en/stable/classes/class_audiostreamrandompitch.html).
 
+
+| Event / Action	| Sound required |
+| ---- | ---- |
+| protagonist attack	| "ugh" utterance |
+| protagonist defense	| "ouch"  |
+| antagonist attack| "ugh", but in a different voice |
+| antagonist defense	| ditto "ouch" |
+| card shuffling	| card shuffling |
+| card placed on table	| card placed on table |
+| card discard noise	| possibly a chime or some bell noise |
+
+<!--
 <iframe frameborder="0"
     width="800"
     height="600"
     src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQE9xlpOYVoM43JZIapHSyUfbm_1xvLKrQtcxOatGSJyiSB1VmTIq3AMMl1-Dv2TK4IURPxaey-0n5p/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+-->
