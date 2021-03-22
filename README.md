@@ -6,6 +6,7 @@ Here lives the design documents for [Contumacious Commuter](https://juanuys.com/
 - [narrative design](narrative.md)
 - [art direction](art-direction.md)
 - [level design](level-design.md)
+- [sound design](sound-design.md)
 
 
 # Prototypes
